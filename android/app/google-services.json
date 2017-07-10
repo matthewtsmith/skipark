@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220410854384",
+    "firebase_url": "https://skipark-3f83a.firebaseio.com",
+    "project_id": "skipark-3f83a",
+    "storage_bucket": "skipark-3f83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220410854384:android:08612f3457ab8ca7",
+        "android_client_info": {
+          "package_name": "com.surfshack.skipark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220410854384-9inbgejk79b76jfsrm3q1fd4gvppqjs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyb2wIAUlnFRPfX1Af8AP8Y8sctubWPug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
